@@ -18,6 +18,6 @@ phpunit KataTest.php
 
 When one test passed, remove the line ```$this->markTestSkipped();``` into the next one for enable it.
 
-# For more
+# Originally from
 
 [Code wars](http://www.codewars.com/)
